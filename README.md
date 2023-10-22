@@ -15,4 +15,7 @@ La informacion suministrada fue obtenida con base en la copetencia Forest Cover 
 
 https://www.kaggle.com/competitions/forest-cover-type-prediction/overview
 
+## Video
+- [ENTREGA 2](https://youtu.be/O3IKjGGoa6Y)
+
 
